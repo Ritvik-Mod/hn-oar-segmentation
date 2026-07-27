@@ -1,0 +1,33 @@
+#PBS -N nnunet_prep
+#PBS -l select=1:ncpus=8:mem=40gb
+#PBS -l walltime=06:00:00
+#PBS -q workq
+#PBS -m abe
+
+# ---- CPU job: build the nnU-Net dataset from npz + plan & preprocess ----
+# Submit from the pipeline/ folder:  qsub nnunet_prep.pbs
+# Live log:  tail -f ~/project/pipeline/nnunet_prep_live.log
+
+cd "$PBS_O_WORKDIR" || exit 1
+export PYTHONUNBUFFERED=1
+exec > "nnunet_prep_live.log" 2>&1        # <-- live logging (updates while running)
+
+source /apps/anaconda3/bin/activate deeplearning
+date
+
+export nnUNet_raw=/home/<hpc-user>/project/nnunet/nnUNet_raw
+export nnUNet_preprocessed=/home/<hpc-user>/project/nnunet/nnUNet_preprocessed
+export nnUNet_results=/home/<hpc-user>/project/nnunet/nnUNet_results
+mkdir -p "$nnUNet_raw" "$nnUNet_preprocessed" "$nnUNet_results"
+
+echo ">>> [1/2] building nnU-Net dataset from npz ..."
+python make_nnunet_dataset.py \
+    --data-dir /home/<hpc-user>/project/data/ML_Dataset_Final \
+    --split    /home/<hpc-user>/project/dataset_split.json \
+    --out      "$nnUNet_raw/Dataset001_Parotid"
+
+echo ">>> [2/2] nnU-Net plan & preprocess ..."
+nnUNetv2_plan_and_preprocess -d 1 --verify_dataset_integrity
+
+date
+echo "=== prep done ==="

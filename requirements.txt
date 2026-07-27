@@ -1,7 +1,27 @@
+# Core deep learning
 torch>=2.0.0
+torchvision>=0.15.0          # ImageNet ResNet-50 weights for the E3 pretraining arm
+timm>=0.9.0                  # Swin-T ImageNet encoder (E3)
+
+# nnU-Net v2 (Phase 2 + Track A of the ablation)
+nnunetv2>=2.2
+
+# Numerics
 numpy>=1.24.0
-scipy>=1.10.0
-h5py>=3.8.0
+scipy>=1.10.0                # distance_transform_edt / binary_erosion for HD95 + Surface Dice
+pandas>=2.0.0                # results tables, per-case CSVs
+
+# Medical + volumetric I/O
+pydicom>=2.4.0               # DICOM-RTSTRUCT parsing
+nibabel>=5.0.0               # NIfTI volumes for the nnU-Net pipeline
+h5py>=3.8.0                  # 38 GB consolidated slice database
+SimpleITK>=2.3.0             # required by nnunetv2
+
+# Imaging
+opencv-python>=4.8.0         # cv2.fillPoly polygon rasterisation (the .WC parser)
+scikit-image>=0.21.0         # marching cubes for 3D gland surface renders
+
+# Stats + plotting
+scikit-learn>=1.3.0
 matplotlib>=3.7.0
-nibabel>=4.0.0
-nnunetv2
+tqdm>=4.65.0

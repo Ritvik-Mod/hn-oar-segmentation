@@ -1,0 +1,543 @@
+[
+  {
+    "patient": "1~240145",
+    "organs": [
+      "PELVIS",
+      "BODY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240180",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240771",
+    "organs": [
+      "BODY",
+      "THORAX",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240324",
+    "organs": [
+      "LT_FEMUR",
+      "RT_FEMUR",
+      "PTV",
+      "C",
+      "BLADDER"
+    ]
+  },
+  {
+    "patient": "1~240323",
+    "organs": [
+      "LIVER",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240181",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240143",
+    "organs": [
+      "PELVIS",
+      "RING2_CM",
+      "DPTV1",
+      "RING1CM",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240314",
+    "organs": []
+  },
+  {
+    "patient": "1~240054",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240408",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240605",
+    "organs": [
+      "BODY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240009",
+    "organs": [
+      "BODY",
+      "PELVIS",
+      "BLADDER",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240038",
+    "organs": [
+      "BODY",
+      "LT_KIDNEY",
+      "PELVIS",
+      "RT_KIDNEY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240635",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240666",
+    "organs": [
+      "RT_KIDNEY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240659",
+    "organs": [
+      "LT_FEMUR",
+      "PELVIS",
+      "RT_FEMUR",
+      "ID_20",
+      "PTVRING1",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240478",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~241156",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~241355",
+    "organs": [
+      "LIVER",
+      "RT_KIDNEY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240219",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240470",
+    "organs": [
+      "BODY",
+      "RT_LUNG",
+      "BREAST",
+      "LT_LUNG",
+      "THORAX",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240275",
+    "organs": [
+      "PELVIS",
+      "PTV_RARAAORTIC",
+      "LT_KIDNEY",
+      "LIVER",
+      "BOWEL",
+      "RT_KIDNEY",
+      "PANCREAS",
+      "ABDOMEN",
+      "GTV"
+    ]
+  },
+  {
+    "patient": "1~240047",
+    "organs": []
+  },
+  {
+    "patient": "1~240875",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240104",
+    "organs": [
+      "Metal",
+      "LT_KIDNEY",
+      "RT_KIDNEY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240737",
+    "organs": [
+      "PTV_L3",
+      "LT_KIDNEY",
+      "RT_KIDNEY",
+      "PTV_D11"
+    ]
+  },
+  {
+    "patient": "1~240505",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240353",
+    "organs": [
+      "RT_KIDNEY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240708",
+    "organs": [
+      "BODY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240308",
+    "organs": [
+      "PELVIS",
+      "RT_FEMUR",
+      "LT_FEMUR",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240105",
+    "organs": [
+      "PELVIS",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240939",
+    "organs": [
+      "PELVIS",
+      "LT_FEMUR",
+      "RT_FEMUR",
+      "BOWEL",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240390",
+    "organs": [
+      "BODY"
+    ]
+  },
+  {
+    "patient": "1~240124",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240373",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240170",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240774",
+    "organs": [
+      "DPTV1",
+      "BLADDER",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240718",
+    "organs": [
+      "LT_KIDNEY",
+      "RT_KIDNEY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240343",
+    "organs": [
+      "LT_KIDNEY",
+      "RT_KIDNEY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240178",
+    "organs": [
+      "PELVIS",
+      "LT_FEMUR",
+      "RT_FEMUR",
+      "BOWEL",
+      "PTV",
+      "dx11",
+      "GTV",
+      "BLADDER"
+    ]
+  },
+  {
+    "patient": "1~240729",
+    "organs": [
+      "BODY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240207",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240853",
+    "organs": [
+      "BODY"
+    ]
+  },
+  {
+    "patient": "1~240461",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240492",
+    "organs": [
+      "BODY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240801",
+    "organs": [
+      "BODY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240206",
+    "organs": [
+      "LT_KIDNEY",
+      "PELVISPTV",
+      "RT_KIDNEY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240662",
+    "organs": [
+      "BLADDER",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240264",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240417",
+    "organs": [
+      "BODY",
+      "PELVIS",
+      "BLADDER",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240812",
+    "organs": [
+      "LT_KIDNEY",
+      "RT_KIDNEY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240488",
+    "organs": [
+      "BODY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240427",
+    "organs": [
+      "Metal",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~241361",
+    "organs": [
+      "LT_KIDNEY",
+      "PTV_LUMBAR_SIPNE",
+      "RT_KIDNEY",
+      "Metal"
+    ]
+  },
+  {
+    "patient": "1~241395",
+    "organs": [
+      "PELVIS",
+      "RT_FEMUR",
+      "BOWEL",
+      "PRVMAR1",
+      "GTV",
+      "BLADDER",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240278",
+    "organs": [
+      "RIGHT_KIDNEY",
+      "LEFT__KIDNEY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240624",
+    "organs": [
+      "RT_LUNG",
+      "THORAX",
+      "LT_LUNG"
+    ]
+  },
+  {
+    "patient": "1~241359",
+    "organs": [
+      "RECTUM",
+      "LT_FEMUR",
+      "PELVIS",
+      "RT_FEMUR",
+      "BOWEL",
+      "GENITALS",
+      "PTV_MAR",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240683",
+    "organs": [
+      "BODY",
+      "PTV_D6",
+      "THORAX"
+    ]
+  },
+  {
+    "patient": "1~240222",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240165",
+    "organs": [
+      "BODY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240733",
+    "organs": [
+      "dptv2",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240366",
+    "organs": [
+      "BODY"
+    ]
+  },
+  {
+    "patient": "1~240957",
+    "organs": [
+      "BODY",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240760",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240536",
+    "organs": [
+      "PELVIS",
+      "BLADDER",
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240732",
+    "organs": [
+      "PELVIS",
+      "LT_KIDNEY",
+      "PTV_D10",
+      "RT_KIDNEY",
+      "BOWEL",
+      "DPTVIILIAC",
+      "RINGL2",
+      "SPLEEN",
+      "DPTVD10",
+      "RINGIILIACBONE",
+      "RING2CM",
+      "PTVL2MAR1",
+      "PTV_LT_ILIAC",
+      "Metal"
+    ]
+  },
+  {
+    "patient": "1~240934",
+    "organs": [
+      "PTV"
+    ]
+  },
+  {
+    "patient": "1~240792",
+    "organs": []
+  },
+  {
+    "patient": "1~240766",
+    "organs": [
+      "LT_KIDNEY",
+      "RT_KIDNEY",
+      "PTV"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+#PBS -N nnunet_parotid
+#PBS -l select=1:ncpus=8:ngpus=1:mem=48gb
+#PBS -l place=scatter:shared
+#PBS -q gpu
+#PBS -m abe
+
+# ---- nnU-Net v2 training: bilateral parotid, 3d_fullres, fold 0 ----
+# Submit from the pipeline/ folder:  qsub nnunet_train.pbs
+# Live log:  tail -f ~/project/pipeline/nnunet_parotid_train_live.log
+# Assumes the prep job (nnunet_prep.pbs) finished successfully.
+
+cd "$PBS_O_WORKDIR" || exit 1
+export PYTHONUNBUFFERED=1
+exec > "nnunet_parotid_train_live.log" 2>&1   # <-- live logging (updates while running)
+
+source /apps/anaconda3/bin/activate deeplearning
+date
+
+export nnUNet_raw=/home/<hpc-user>/project/nnunet/nnUNet_raw
+export nnUNet_preprocessed=/home/<hpc-user>/project/nnunet/nnUNet_preprocessed
+export nnUNet_results=/home/<hpc-user>/project/nnunet/nnUNet_results
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+
+# --- the cluster shares GPUs across users, so pick one with enough FREE memory,
+#     and wait/poll if both are currently busy (starts automatically when free) ---
+NEED_MB=14000
+while true; do
+    read -r ID FREE < <(nvidia-smi --query-gpu=index,memory.free \
+        --format=csv,noheader,nounits | sort -t, -k2 -n -r | head -1 | tr ',' ' ')
+    if [ "${FREE:-0}" -ge "$NEED_MB" ]; then
+        export CUDA_VISIBLE_DEVICES=$ID
+        echo "$(date): using GPU $ID with ${FREE} MiB free"
+        break
+    fi
+    echo "$(date): waiting for a GPU — best is GPU $ID with ${FREE} MiB free (need ${NEED_MB})"
+    sleep 120
+done
+
+nvidia-smi
+
+# 250-epoch trainer: ~1/4 the time of the 1000-epoch default, ~same accuracy.
+# Remove "-tr nnUNetTrainer_250epochs" for the full-strength run.
+nnUNetv2_train 1 3d_fullres 0 -tr nnUNetTrainer_250epochs --npz
+
+date
+echo "=== training done ==="
