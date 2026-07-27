@@ -1,0 +1,64 @@
+# ============================================================
+# PATIENT DATA — never commit anything below, under any name
+# ============================================================
+*.npz
+*.nii
+*.nii.gz
+*.h5
+*.hdf5
+*.dcm
+*.DCM
+*.WC
+*.CT
+ML_Dataset*/
+raw*patient*data/
+nnUNet_raw/
+nnUNet_preprocessed/
+imagesTr/
+imagesTs/
+labelsTr/
+labelsTs/
+contournames
+*.hyp
+*.xlog
+index.dat
+
+# Model weights — distributed via GitHub Releases, not git
+*.pth
+*.pt
+*.ckpt
+*.pkl
+checkpoints/
+nnunet_results*/
+
+# Large label-standardisation logs (17 MB+ JSON)
+label_standardisation_log*.json
+
+# Ambiguously-named duplicate result CSVs (superseded by the
+# <experiment>__<file>.csv copies in the same folder)
+results/ablation/eval.csv
+results/ablation/eval_E1_2d.csv
+results/ablation/eval_E2_dirty.csv
+results/ablation/eval_E2b_gapped.csv
+results/ablation/per_case.csv
+results/ablation/per_case_full.csv
+results/ablation/per_case_unet_attn.csv
+results/ablation/per_gland.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+._*
+Icon?
+Thumbs.db
+.idea/
+.vscode/
+*.swp
