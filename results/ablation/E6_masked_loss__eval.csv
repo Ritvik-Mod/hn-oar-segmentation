@@ -1,0 +1,5 @@
+Model_Name,3D_Dice,Tversky,HD95_mm,Surface_Dice_3mm,Set
+Custom_3D_UNet_masked430,0.7079,0.7401,134.69,0.7290,TEST
+Custom_3D_UNet_masked430_CC,0.7589,0.7746,9.19,0.8403,TEST
+Custom_3D_UNet_dirty430,0.7111,0.7164,47.63,0.7684,TEST
+Custom_3D_UNet_dirty430_CC,0.7296,0.7267,9.61,0.7999,TEST

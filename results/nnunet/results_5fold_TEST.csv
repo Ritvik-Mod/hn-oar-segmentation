@@ -1,0 +1,2 @@
+Model_Name,3D_Dice,Tversky,HD95_mm,Surface_Dice_3mm,Set
+nnUNet_5fold_ensemble,0.8202,0.8174,5.24,0.8990,TEST

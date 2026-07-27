@@ -1,0 +1,2527 @@
+{
+  "PAR0001": {
+    "patient_id": "260064",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2344,
+      "PAROTID_L": 6178
+    },
+    "warnings": []
+  },
+  "PAR0002": {
+    "patient_id": "260110",
+    "n_slices": 130,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 1403,
+      "PAROTID_L": 5083
+    },
+    "warnings": []
+  },
+  "PAR0003": {
+    "patient_id": "1~240108",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7150,
+      "PAROTID_L": 7713
+    },
+    "warnings": []
+  },
+  "PAR0004": {
+    "patient_id": "1~240837",
+    "n_slices": 118,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8606,
+      "PAROTID_L": 2787
+    },
+    "warnings": []
+  },
+  "PAR0005": {
+    "patient_id": "1~240925",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6826,
+      "PAROTID_L": 6872
+    },
+    "warnings": []
+  },
+  "PAR0006": {
+    "patient_id": "260125",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3816,
+      "PAROTID_L": 2271
+    },
+    "warnings": []
+  },
+  "PAR0007": {
+    "patient_id": "1~240952",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2919,
+      "PAROTID_L": 3227
+    },
+    "warnings": [
+      "non-uniform Z spacing (min=2.90 max=3.00)"
+    ]
+  },
+  "PAR0008": {
+    "patient_id": "1~240795",
+    "n_slices": 132,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9690,
+      "PAROTID_L": 9560
+    },
+    "warnings": []
+  },
+  "PAR0009": {
+    "patient_id": "1~240932",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6557,
+      "PAROTID_L": 7371
+    },
+    "warnings": []
+  },
+  "PAR0010": {
+    "patient_id": "1~240745",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4382,
+      "PAROTID_L": 4892
+    },
+    "warnings": []
+  },
+  "PAR0011": {
+    "patient_id": "1~240341",
+    "n_slices": 100,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6372,
+      "PAROTID_L": 6358
+    },
+    "warnings": []
+  },
+  "PAR0012": {
+    "patient_id": "1~240024",
+    "n_slices": 130,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6166,
+      "PAROTID_L": 3458
+    },
+    "warnings": []
+  },
+  "PAR0013": {
+    "patient_id": "1~240980",
+    "n_slices": 115,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3439,
+      "PAROTID_L": 4297
+    },
+    "warnings": []
+  },
+  "PAR0014": {
+    "patient_id": "260106",
+    "n_slices": 128,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5900,
+      "PAROTID_L": 5701
+    },
+    "warnings": []
+  },
+  "PAR0015": {
+    "patient_id": "260038",
+    "n_slices": 129,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3376,
+      "PAROTID_L": 2825
+    },
+    "warnings": []
+  },
+  "PAR0016": {
+    "patient_id": "1~240705",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4444,
+      "PAROTID_L": 3517
+    },
+    "warnings": []
+  },
+  "PAR0017": {
+    "patient_id": "1~240906",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5954,
+      "PAROTID_L": 5211
+    },
+    "warnings": []
+  },
+  "PAR0018": {
+    "patient_id": "1~240802",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7611,
+      "PAROTID_L": 3564
+    },
+    "warnings": []
+  },
+  "PAR0019": {
+    "patient_id": "1~241384",
+    "n_slices": 131,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4136,
+      "PAROTID_L": 3739
+    },
+    "warnings": []
+  },
+  "PAR0020": {
+    "patient_id": "1~240244",
+    "n_slices": 51,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4314,
+      "PAROTID_L": 4826
+    },
+    "warnings": [
+      "non-uniform Z spacing (min=3.00 max=33.00)",
+      "2 slice gap(s) detected"
+    ]
+  },
+  "PAR0021": {
+    "patient_id": "1~240977",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2858,
+      "PAROTID_L": 2720
+    },
+    "warnings": []
+  },
+  "PAR0022": {
+    "patient_id": "1~240748",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7318,
+      "PAROTID_L": 6869
+    },
+    "warnings": []
+  },
+  "PAR0023": {
+    "patient_id": "1~241357",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4014,
+      "PAROTID_L": 4240
+    },
+    "warnings": []
+  },
+  "PAR0024": {
+    "patient_id": "1~240322",
+    "n_slices": 128,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7117,
+      "PAROTID_L": 3596
+    },
+    "warnings": []
+  },
+  "PAR0025": {
+    "patient_id": "260156",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4194,
+      "PAROTID_L": 4258
+    },
+    "warnings": []
+  },
+  "PAR0026": {
+    "patient_id": "1~240392",
+    "n_slices": 115,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8919,
+      "PAROTID_L": 9987
+    },
+    "warnings": []
+  },
+  "PAR0027": {
+    "patient_id": "1~240462",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6530,
+      "PAROTID_L": 4564
+    },
+    "warnings": []
+  },
+  "PAR0028": {
+    "patient_id": "1~240421",
+    "n_slices": 105,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4188,
+      "PAROTID_L": 5532
+    },
+    "warnings": []
+  },
+  "PAR0029": {
+    "patient_id": "260198",
+    "n_slices": 119,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2310,
+      "PAROTID_L": 4148
+    },
+    "warnings": []
+  },
+  "PAR0030": {
+    "patient_id": "251120",
+    "n_slices": 106,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 934,
+      "PAROTID_L": 2314
+    },
+    "warnings": []
+  },
+  "PAR0031": {
+    "patient_id": "1~240749",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8906,
+      "PAROTID_L": 8175
+    },
+    "warnings": []
+  },
+  "PAR0032": {
+    "patient_id": "1~240284",
+    "n_slices": 130,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5605,
+      "PAROTID_L": 5890
+    },
+    "warnings": []
+  },
+  "PAR0033": {
+    "patient_id": "260242",
+    "n_slices": 134,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5614,
+      "PAROTID_L": 5067
+    },
+    "warnings": []
+  },
+  "PAR0034": {
+    "patient_id": "1~240968",
+    "n_slices": 113,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3547,
+      "PAROTID_L": 4347
+    },
+    "warnings": []
+  },
+  "PAR0035": {
+    "patient_id": "1~240866",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2326,
+      "PAROTID_L": 6026
+    },
+    "warnings": []
+  },
+  "PAR0036": {
+    "patient_id": "1~240800",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8517,
+      "PAROTID_L": 9438
+    },
+    "warnings": []
+  },
+  "PAR0037": {
+    "patient_id": "1~240334",
+    "n_slices": 118,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7585,
+      "PAROTID_L": 10475
+    },
+    "warnings": []
+  },
+  "PAR0038": {
+    "patient_id": "1~240826",
+    "n_slices": 105,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11737,
+      "PAROTID_L": 10280
+    },
+    "warnings": []
+  },
+  "PAR0039": {
+    "patient_id": "1~240799",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8200,
+      "PAROTID_L": 6741
+    },
+    "warnings": []
+  },
+  "PAR0040": {
+    "patient_id": "260187",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9196,
+      "PAROTID_L": 4992
+    },
+    "warnings": []
+  },
+  "PAR0041": {
+    "patient_id": "1~240896",
+    "n_slices": 129,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3611,
+      "PAROTID_L": 3675
+    },
+    "warnings": []
+  },
+  "PAR0042": {
+    "patient_id": "260114",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3196,
+      "PAROTID_L": 3021
+    },
+    "warnings": []
+  },
+  "PAR0043": {
+    "patient_id": "1~240537",
+    "n_slices": 119,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11033,
+      "PAROTID_L": 10843
+    },
+    "warnings": []
+  },
+  "PAR0044": {
+    "patient_id": "1~240262",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4928,
+      "PAROTID_L": 4651
+    },
+    "warnings": []
+  },
+  "PAR0045": {
+    "patient_id": "1~240870",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8237,
+      "PAROTID_L": 8648
+    },
+    "warnings": []
+  },
+  "PAR0046": {
+    "patient_id": "260112",
+    "n_slices": 138,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4650,
+      "PAROTID_L": 4477
+    },
+    "warnings": []
+  },
+  "PAR0047": {
+    "patient_id": "1~240349",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7795,
+      "PAROTID_L": 4117
+    },
+    "warnings": []
+  },
+  "PAR0048": {
+    "patient_id": "1~240459",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4245,
+      "PAROTID_L": 6910
+    },
+    "warnings": []
+  },
+  "PAR0049": {
+    "patient_id": "1~240869",
+    "n_slices": 116,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11104,
+      "PAROTID_L": 10252
+    },
+    "warnings": []
+  },
+  "PAR0050": {
+    "patient_id": "1~240943",
+    "n_slices": 119,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2584,
+      "PAROTID_L": 1448
+    },
+    "warnings": []
+  },
+  "PAR0051": {
+    "patient_id": "1~240545",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11726,
+      "PAROTID_L": 11867
+    },
+    "warnings": []
+  },
+  "PAR0052": {
+    "patient_id": "1~240850",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8512,
+      "PAROTID_L": 8728
+    },
+    "warnings": []
+  },
+  "PAR0053": {
+    "patient_id": "1~240686",
+    "n_slices": 113,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 10086,
+      "PAROTID_L": 9987
+    },
+    "warnings": []
+  },
+  "PAR0054": {
+    "patient_id": "1~240451",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 17504,
+      "PAROTID_L": 18448
+    },
+    "warnings": []
+  },
+  "PAR0055": {
+    "patient_id": "1~240006",
+    "n_slices": 129,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4707,
+      "PAROTID_L": 4050
+    },
+    "warnings": []
+  },
+  "PAR0056": {
+    "patient_id": "1~240546",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8696,
+      "PAROTID_L": 9790
+    },
+    "warnings": []
+  },
+  "PAR0057": {
+    "patient_id": "1~240162",
+    "n_slices": 115,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 10729,
+      "PAROTID_L": 9375
+    },
+    "warnings": []
+  },
+  "PAR0058": {
+    "patient_id": "1~240453",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3896,
+      "PAROTID_L": 3974
+    },
+    "warnings": []
+  },
+  "PAR0059": {
+    "patient_id": "1~240115",
+    "n_slices": 134,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11169,
+      "PAROTID_L": 7260
+    },
+    "warnings": []
+  },
+  "PAR0060": {
+    "patient_id": "1~240141",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11045,
+      "PAROTID_L": 11249
+    },
+    "warnings": []
+  },
+  "PAR0061": {
+    "patient_id": "1~241256",
+    "n_slices": 116,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4588,
+      "PAROTID_L": 3588
+    },
+    "warnings": []
+  },
+  "PAR0062": {
+    "patient_id": "1~240254",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 10505,
+      "PAROTID_L": 8303
+    },
+    "warnings": []
+  },
+  "PAR0063": {
+    "patient_id": "1~240059",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8107,
+      "PAROTID_L": 6552
+    },
+    "warnings": []
+  },
+  "PAR0064": {
+    "patient_id": "1~240912",
+    "n_slices": 128,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3944,
+      "PAROTID_L": 6799
+    },
+    "warnings": []
+  },
+  "PAR0065": {
+    "patient_id": "1~240786",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8023,
+      "PAROTID_L": 7830
+    },
+    "warnings": []
+  },
+  "PAR0066": {
+    "patient_id": "1~240965",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5304,
+      "PAROTID_L": 8225
+    },
+    "warnings": []
+  },
+  "PAR0067": {
+    "patient_id": "1~240489",
+    "n_slices": 134,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 10956,
+      "PAROTID_L": 9134
+    },
+    "warnings": []
+  },
+  "PAR0068": {
+    "patient_id": "1~240831",
+    "n_slices": 137,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9203,
+      "PAROTID_L": 9561
+    },
+    "warnings": []
+  },
+  "PAR0069": {
+    "patient_id": "260199",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 929,
+      "PAROTID_L": 1789
+    },
+    "warnings": []
+  },
+  "PAR0070": {
+    "patient_id": "1~240282",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5976,
+      "PAROTID_L": 6200
+    },
+    "warnings": []
+  },
+  "PAR0071": {
+    "patient_id": "1~241379",
+    "n_slices": 150,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6396,
+      "PAROTID_L": 4594
+    },
+    "warnings": []
+  },
+  "PAR0072": {
+    "patient_id": "1~240962",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4192,
+      "PAROTID_L": 4773
+    },
+    "warnings": []
+  },
+  "PAR0073": {
+    "patient_id": "1~240267",
+    "n_slices": 128,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5124,
+      "PAROTID_L": 4604
+    },
+    "warnings": []
+  },
+  "PAR0074": {
+    "patient_id": "1~240861",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 17678,
+      "PAROTID_L": 14903
+    },
+    "warnings": []
+  },
+  "PAR0075": {
+    "patient_id": "1~240410",
+    "n_slices": 118,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7922,
+      "PAROTID_L": 8698
+    },
+    "warnings": []
+  },
+  "PAR0076": {
+    "patient_id": "1~240491",
+    "n_slices": 128,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8603,
+      "PAROTID_L": 11075
+    },
+    "warnings": []
+  },
+  "PAR0077": {
+    "patient_id": "1~240377",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 10122,
+      "PAROTID_L": 7914
+    },
+    "warnings": []
+  },
+  "PAR0078": {
+    "patient_id": "1~240499",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 12697,
+      "PAROTID_L": 11358
+    },
+    "warnings": []
+  },
+  "PAR0079": {
+    "patient_id": "260076",
+    "n_slices": 129,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6448,
+      "PAROTID_L": 4812
+    },
+    "warnings": []
+  },
+  "PAR0080": {
+    "patient_id": "1~240358",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11814,
+      "PAROTID_L": 9392
+    },
+    "warnings": []
+  },
+  "PAR0081": {
+    "patient_id": "1~240051",
+    "n_slices": 136,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5993,
+      "PAROTID_L": 4920
+    },
+    "warnings": []
+  },
+  "PAR0082": {
+    "patient_id": "1~240438",
+    "n_slices": 132,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3968,
+      "PAROTID_L": 9273
+    },
+    "warnings": []
+  },
+  "PAR0083": {
+    "patient_id": "1~240744",
+    "n_slices": 110,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 12592,
+      "PAROTID_L": 10720
+    },
+    "warnings": []
+  },
+  "PAR0084": {
+    "patient_id": "1~241353",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5582,
+      "PAROTID_L": 4515
+    },
+    "warnings": []
+  },
+  "PAR0085": {
+    "patient_id": "1~240805",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 12239,
+      "PAROTID_L": 9813
+    },
+    "warnings": []
+  },
+  "PAR0086": {
+    "patient_id": "1~240384",
+    "n_slices": 117,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11684,
+      "PAROTID_L": 9692
+    },
+    "warnings": []
+  },
+  "PAR0087": {
+    "patient_id": "1~240865",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5981,
+      "PAROTID_L": 2377
+    },
+    "warnings": []
+  },
+  "PAR0088": {
+    "patient_id": "260108",
+    "n_slices": 136,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7251,
+      "PAROTID_L": 6871
+    },
+    "warnings": []
+  },
+  "PAR0089": {
+    "patient_id": "1~240884",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5218,
+      "PAROTID_L": 9343
+    },
+    "warnings": []
+  },
+  "PAR0090": {
+    "patient_id": "260170",
+    "n_slices": 104,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6620,
+      "PAROTID_L": 6215
+    },
+    "warnings": []
+  },
+  "PAR0091": {
+    "patient_id": "1~240243",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 12412,
+      "PAROTID_L": 13448
+    },
+    "warnings": []
+  },
+  "PAR0092": {
+    "patient_id": "1~240375",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 18132,
+      "PAROTID_L": 12608
+    },
+    "warnings": []
+  },
+  "PAR0093": {
+    "patient_id": "1~240063",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9651,
+      "PAROTID_L": 7942
+    },
+    "warnings": []
+  },
+  "PAR0094": {
+    "patient_id": "260119",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 1354,
+      "PAROTID_L": 1995
+    },
+    "warnings": []
+  },
+  "PAR0095": {
+    "patient_id": "1~240455",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6745,
+      "PAROTID_L": 6033
+    },
+    "warnings": []
+  },
+  "PAR0096": {
+    "patient_id": "1~240885",
+    "n_slices": 78,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8597,
+      "PAROTID_L": 7552
+    },
+    "warnings": []
+  },
+  "PAR0097": {
+    "patient_id": "1~240442",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7010,
+      "PAROTID_L": 7667
+    },
+    "warnings": []
+  },
+  "PAR0098": {
+    "patient_id": "260221",
+    "n_slices": 114,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2450,
+      "PAROTID_L": 5024
+    },
+    "warnings": []
+  },
+  "PAR0099": {
+    "patient_id": "1~240796",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5427,
+      "PAROTID_L": 4850
+    },
+    "warnings": []
+  },
+  "PAR0100": {
+    "patient_id": "1~240971",
+    "n_slices": 134,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7994,
+      "PAROTID_L": 7052
+    },
+    "warnings": []
+  },
+  "PAR0101": {
+    "patient_id": "260062",
+    "n_slices": 132,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5581,
+      "PAROTID_L": 4683
+    },
+    "warnings": []
+  },
+  "PAR0102": {
+    "patient_id": "1~240699",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4851,
+      "PAROTID_L": 4937
+    },
+    "warnings": []
+  },
+  "PAR0103": {
+    "patient_id": "1~241396",
+    "n_slices": 131,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3151,
+      "PAROTID_L": 5446
+    },
+    "warnings": []
+  },
+  "PAR0104": {
+    "patient_id": "260160",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4442,
+      "PAROTID_L": 4362
+    },
+    "warnings": []
+  },
+  "PAR0105": {
+    "patient_id": "1~240828",
+    "n_slices": 116,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3946,
+      "PAROTID_L": 5119
+    },
+    "warnings": []
+  },
+  "PAR0106": {
+    "patient_id": "1~240436",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2192,
+      "PAROTID_L": 8438
+    },
+    "warnings": []
+  },
+  "PAR0107": {
+    "patient_id": "260204",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6360,
+      "PAROTID_L": 5720
+    },
+    "warnings": []
+  },
+  "PAR0108": {
+    "patient_id": "1~240946",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4559,
+      "PAROTID_L": 4837
+    },
+    "warnings": []
+  },
+  "PAR0109": {
+    "patient_id": "1~240517",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 12953,
+      "PAROTID_L": 10969
+    },
+    "warnings": []
+  },
+  "PAR0110": {
+    "patient_id": "260161",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 1972,
+      "PAROTID_L": 2052
+    },
+    "warnings": []
+  },
+  "PAR0111": {
+    "patient_id": "260116",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7188,
+      "PAROTID_L": 5716
+    },
+    "warnings": []
+  },
+  "PAR0112": {
+    "patient_id": "1~240454",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7337,
+      "PAROTID_L": 6029
+    },
+    "warnings": []
+  },
+  "PAR0113": {
+    "patient_id": "260149",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5763,
+      "PAROTID_L": 5141
+    },
+    "warnings": []
+  },
+  "PAR0114": {
+    "patient_id": "1~240944",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5996,
+      "PAROTID_L": 4927
+    },
+    "warnings": []
+  },
+  "PAR0115": {
+    "patient_id": "1~240898",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8503,
+      "PAROTID_L": 8857
+    },
+    "warnings": []
+  },
+  "PAR0116": {
+    "patient_id": "1~240154",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7725,
+      "PAROTID_L": 11624
+    },
+    "warnings": []
+  },
+  "PAR0117": {
+    "patient_id": "260201",
+    "n_slices": 131,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3560,
+      "PAROTID_L": 2633
+    },
+    "warnings": []
+  },
+  "PAR0118": {
+    "patient_id": "1~240858",
+    "n_slices": 113,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 12385,
+      "PAROTID_L": 12772
+    },
+    "warnings": []
+  },
+  "PAR0119": {
+    "patient_id": "260239",
+    "n_slices": 130,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6269,
+      "PAROTID_L": 5556
+    },
+    "warnings": []
+  },
+  "PAR0120": {
+    "patient_id": "1~240299",
+    "n_slices": 131,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 10638,
+      "PAROTID_L": 11921
+    },
+    "warnings": []
+  },
+  "PAR0121": {
+    "patient_id": "1~240657",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 15347,
+      "PAROTID_L": 15323
+    },
+    "warnings": []
+  },
+  "PAR0122": {
+    "patient_id": "1~240903",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4041,
+      "PAROTID_L": 4363
+    },
+    "warnings": []
+  },
+  "PAR0123": {
+    "patient_id": "1~240395",
+    "n_slices": 110,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11567,
+      "PAROTID_L": 12818
+    },
+    "warnings": []
+  },
+  "PAR0124": {
+    "patient_id": "1~240106",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6541,
+      "PAROTID_L": 6048
+    },
+    "warnings": []
+  },
+  "PAR0125": {
+    "patient_id": "1~240703",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3836,
+      "PAROTID_L": 3249
+    },
+    "warnings": []
+  },
+  "PAR0126": {
+    "patient_id": "1~240811",
+    "n_slices": 132,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4883,
+      "PAROTID_L": 4948
+    },
+    "warnings": []
+  },
+  "PAR0127": {
+    "patient_id": "260090",
+    "n_slices": 117,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5389,
+      "PAROTID_L": 4893
+    },
+    "warnings": []
+  },
+  "PAR0128": {
+    "patient_id": "1~240452",
+    "n_slices": 107,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6430,
+      "PAROTID_L": 6090
+    },
+    "warnings": []
+  },
+  "PAR0129": {
+    "patient_id": "1~240001",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11054,
+      "PAROTID_L": 9481
+    },
+    "warnings": []
+  },
+  "PAR0130": {
+    "patient_id": "1~240660",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9057,
+      "PAROTID_L": 11101
+    },
+    "warnings": []
+  },
+  "PAR0131": {
+    "patient_id": "260063",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3919,
+      "PAROTID_L": 1328
+    },
+    "warnings": []
+  },
+  "PAR0132": {
+    "patient_id": "1~240450",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8289,
+      "PAROTID_L": 9360
+    },
+    "warnings": []
+  },
+  "PAR0133": {
+    "patient_id": "1~240757",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 15062,
+      "PAROTID_L": 11439
+    },
+    "warnings": []
+  },
+  "PAR0134": {
+    "patient_id": "260065",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 787,
+      "PAROTID_L": 2822
+    },
+    "warnings": []
+  },
+  "PAR0135": {
+    "patient_id": "260150",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5336,
+      "PAROTID_L": 5384
+    },
+    "warnings": []
+  },
+  "PAR0136": {
+    "patient_id": "1~240200",
+    "n_slices": 139,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11097,
+      "PAROTID_L": 9619
+    },
+    "warnings": []
+  },
+  "PAR0137": {
+    "patient_id": "1~240700",
+    "n_slices": 130,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4321,
+      "PAROTID_L": 5582
+    },
+    "warnings": []
+  },
+  "PAR0138": {
+    "patient_id": "1~240793",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 10951,
+      "PAROTID_L": 9019
+    },
+    "warnings": []
+  },
+  "PAR0139": {
+    "patient_id": "1~240693",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4636,
+      "PAROTID_L": 2976
+    },
+    "warnings": []
+  },
+  "PAR0140": {
+    "patient_id": "1~240467",
+    "n_slices": 115,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5252,
+      "PAROTID_L": 4703
+    },
+    "warnings": []
+  },
+  "PAR0141": {
+    "patient_id": "1~240747",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5065,
+      "PAROTID_L": 4491
+    },
+    "warnings": []
+  },
+  "PAR0142": {
+    "patient_id": "1~240400",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5243,
+      "PAROTID_L": 5242
+    },
+    "warnings": []
+  },
+  "PAR0143": {
+    "patient_id": "1~240469",
+    "n_slices": 119,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9463,
+      "PAROTID_L": 8269
+    },
+    "warnings": []
+  },
+  "PAR0144": {
+    "patient_id": "1~240460",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9034,
+      "PAROTID_L": 11252
+    },
+    "warnings": []
+  },
+  "PAR0145": {
+    "patient_id": "1~240776",
+    "n_slices": 131,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7424,
+      "PAROTID_L": 7861
+    },
+    "warnings": []
+  },
+  "PAR0146": {
+    "patient_id": "1~240218",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8770,
+      "PAROTID_L": 9167
+    },
+    "warnings": []
+  },
+  "PAR0147": {
+    "patient_id": "1~240171",
+    "n_slices": 133,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9195,
+      "PAROTID_L": 9817
+    },
+    "warnings": []
+  },
+  "PAR0148": {
+    "patient_id": "1~240798",
+    "n_slices": 128,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11123,
+      "PAROTID_L": 8973
+    },
+    "warnings": []
+  },
+  "PAR0149": {
+    "patient_id": "1~240788",
+    "n_slices": 129,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8961,
+      "PAROTID_L": 8625
+    },
+    "warnings": []
+  },
+  "PAR0150": {
+    "patient_id": "1~240813",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8737,
+      "PAROTID_L": 9169
+    },
+    "warnings": []
+  },
+  "PAR0151": {
+    "patient_id": "1~240004",
+    "n_slices": 134,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7108,
+      "PAROTID_L": 5820
+    },
+    "warnings": []
+  },
+  "PAR0152": {
+    "patient_id": "1~240456",
+    "n_slices": 111,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6611,
+      "PAROTID_L": 5542
+    },
+    "warnings": []
+  },
+  "PAR0153": {
+    "patient_id": "1~240472",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6368,
+      "PAROTID_L": 12261
+    },
+    "warnings": []
+  },
+  "PAR0154": {
+    "patient_id": "1~241387",
+    "n_slices": 129,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4370,
+      "PAROTID_L": 4553
+    },
+    "warnings": []
+  },
+  "PAR0155": {
+    "patient_id": "1~240226",
+    "n_slices": 131,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6898,
+      "PAROTID_L": 7323
+    },
+    "warnings": []
+  },
+  "PAR0156": {
+    "patient_id": "1~240504",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 10240,
+      "PAROTID_L": 13757
+    },
+    "warnings": []
+  },
+  "PAR0157": {
+    "patient_id": "260157",
+    "n_slices": 117,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3340,
+      "PAROTID_L": 1854
+    },
+    "warnings": []
+  },
+  "PAR0158": {
+    "patient_id": "1~240860",
+    "n_slices": 129,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4832,
+      "PAROTID_L": 11583
+    },
+    "warnings": []
+  },
+  "PAR0159": {
+    "patient_id": "1~240785",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5111,
+      "PAROTID_L": 6718
+    },
+    "warnings": []
+  },
+  "PAR0160": {
+    "patient_id": "1~240420",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3213,
+      "PAROTID_L": 2321
+    },
+    "warnings": []
+  },
+  "PAR0161": {
+    "patient_id": "260182",
+    "n_slices": 119,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4499,
+      "PAROTID_L": 4432
+    },
+    "warnings": []
+  },
+  "PAR0162": {
+    "patient_id": "1~240640",
+    "n_slices": 117,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9156,
+      "PAROTID_L": 8928
+    },
+    "warnings": []
+  },
+  "PAR0163": {
+    "patient_id": "1~240889",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 18258,
+      "PAROTID_L": 8920
+    },
+    "warnings": []
+  },
+  "PAR0164": {
+    "patient_id": "1~240780",
+    "n_slices": 117,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7927,
+      "PAROTID_L": 6711
+    },
+    "warnings": []
+  },
+  "PAR0165": {
+    "patient_id": "1~240789",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 12912,
+      "PAROTID_L": 11272
+    },
+    "warnings": []
+  },
+  "PAR0166": {
+    "patient_id": "1~240970",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 1747,
+      "PAROTID_L": 3976
+    },
+    "warnings": []
+  },
+  "PAR0167": {
+    "patient_id": "1~240827",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3962,
+      "PAROTID_L": 2062
+    },
+    "warnings": []
+  },
+  "PAR0168": {
+    "patient_id": "1~240938",
+    "n_slices": 114,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3805,
+      "PAROTID_L": 5395
+    },
+    "warnings": []
+  },
+  "PAR0169": {
+    "patient_id": "1~240325",
+    "n_slices": 114,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8217,
+      "PAROTID_L": 7671
+    },
+    "warnings": []
+  },
+  "PAR0170": {
+    "patient_id": "1~240752",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7399,
+      "PAROTID_L": 7662
+    },
+    "warnings": []
+  },
+  "PAR0171": {
+    "patient_id": "1~240862",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11651,
+      "PAROTID_L": 9937
+    },
+    "warnings": []
+  },
+  "PAR0172": {
+    "patient_id": "1~240413",
+    "n_slices": 128,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6162,
+      "PAROTID_L": 4978
+    },
+    "warnings": []
+  },
+  "PAR0173": {
+    "patient_id": "1~240002",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6513,
+      "PAROTID_L": 5499
+    },
+    "warnings": []
+  },
+  "PAR0174": {
+    "patient_id": "260053",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6075,
+      "PAROTID_L": 5258
+    },
+    "warnings": []
+  },
+  "PAR0175": {
+    "patient_id": "1~241389",
+    "n_slices": 138,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3660,
+      "PAROTID_L": 5833
+    },
+    "warnings": []
+  },
+  "PAR0176": {
+    "patient_id": "1~240313",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 1071,
+      "PAROTID_L": 1392
+    },
+    "warnings": []
+  },
+  "PAR0177": {
+    "patient_id": "1~240881",
+    "n_slices": 123,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7997,
+      "PAROTID_L": 7283
+    },
+    "warnings": []
+  },
+  "PAR0178": {
+    "patient_id": "260205",
+    "n_slices": 103,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3702,
+      "PAROTID_L": 3707
+    },
+    "warnings": []
+  },
+  "PAR0179": {
+    "patient_id": "1~240822",
+    "n_slices": 116,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9010,
+      "PAROTID_L": 9487
+    },
+    "warnings": []
+  },
+  "PAR0180": {
+    "patient_id": "260059",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3372,
+      "PAROTID_L": 1844
+    },
+    "warnings": []
+  },
+  "PAR0181": {
+    "patient_id": "1~240882",
+    "n_slices": 128,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6839,
+      "PAROTID_L": 10092
+    },
+    "warnings": []
+  },
+  "PAR0182": {
+    "patient_id": "1~240873",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11599,
+      "PAROTID_L": 10589
+    },
+    "warnings": []
+  },
+  "PAR0183": {
+    "patient_id": "1~240728",
+    "n_slices": 133,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9673,
+      "PAROTID_L": 7758
+    },
+    "warnings": []
+  },
+  "PAR0184": {
+    "patient_id": "260274",
+    "n_slices": 77,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4338,
+      "PAROTID_L": 6975
+    },
+    "warnings": []
+  },
+  "PAR0185": {
+    "patient_id": "260263",
+    "n_slices": 103,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4522,
+      "PAROTID_L": 5948
+    },
+    "warnings": []
+  },
+  "PAR0186": {
+    "patient_id": "260253",
+    "n_slices": 96,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5954,
+      "PAROTID_L": 6198
+    },
+    "warnings": []
+  },
+  "PAR0187": {
+    "patient_id": "1~240357",
+    "n_slices": 117,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 1705,
+      "PAROTID_L": 1468
+    },
+    "warnings": []
+  },
+  "PAR0188": {
+    "patient_id": "1~240315",
+    "n_slices": 119,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8828,
+      "PAROTID_L": 1907
+    },
+    "warnings": []
+  },
+  "PAR0189": {
+    "patient_id": "1~240402",
+    "n_slices": 130,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5197,
+      "PAROTID_L": 7219
+    },
+    "warnings": []
+  },
+  "PAR0190": {
+    "patient_id": "1~240466",
+    "n_slices": 129,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7292,
+      "PAROTID_L": 3123
+    },
+    "warnings": []
+  },
+  "PAR0191": {
+    "patient_id": "1~240096",
+    "n_slices": 138,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2630,
+      "PAROTID_L": 4579
+    },
+    "warnings": []
+  },
+  "PAR0192": {
+    "patient_id": "260181",
+    "n_slices": 118,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7448,
+      "PAROTID_L": 7388
+    },
+    "warnings": []
+  },
+  "PAR0193": {
+    "patient_id": "1~240900",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5424,
+      "PAROTID_L": 4225
+    },
+    "warnings": []
+  },
+  "PAR0194": {
+    "patient_id": "1~240840",
+    "n_slices": 118,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3210,
+      "PAROTID_L": 1483
+    },
+    "warnings": []
+  },
+  "PAR0195": {
+    "patient_id": "1~240475",
+    "n_slices": 116,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5214,
+      "PAROTID_L": 12709
+    },
+    "warnings": []
+  },
+  "PAR0196": {
+    "patient_id": "260142",
+    "n_slices": 130,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2048,
+      "PAROTID_L": 566
+    },
+    "warnings": []
+  },
+  "PAR0197": {
+    "patient_id": "1~240692",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5825,
+      "PAROTID_L": 6806
+    },
+    "warnings": []
+  },
+  "PAR0198": {
+    "patient_id": "1~241386",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5895,
+      "PAROTID_L": 6820
+    },
+    "warnings": []
+  },
+  "PAR0199": {
+    "patient_id": "260079",
+    "n_slices": 134,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4081,
+      "PAROTID_L": 3956
+    },
+    "warnings": []
+  },
+  "PAR0200": {
+    "patient_id": "1~240084",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 13093,
+      "PAROTID_L": 11822
+    },
+    "warnings": []
+  },
+  "PAR0201": {
+    "patient_id": "1~240754",
+    "n_slices": 118,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11128,
+      "PAROTID_L": 10133
+    },
+    "warnings": []
+  },
+  "PAR0202": {
+    "patient_id": "1~240821",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8695,
+      "PAROTID_L": 8406
+    },
+    "warnings": []
+  },
+  "PAR0203": {
+    "patient_id": "1~240525",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11221,
+      "PAROTID_L": 9416
+    },
+    "warnings": []
+  },
+  "PAR0204": {
+    "patient_id": "260188",
+    "n_slices": 118,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2665,
+      "PAROTID_L": 2034
+    },
+    "warnings": []
+  },
+  "PAR0205": {
+    "patient_id": "260075",
+    "n_slices": 133,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6431,
+      "PAROTID_L": 6765
+    },
+    "warnings": []
+  },
+  "PAR0206": {
+    "patient_id": "260246",
+    "n_slices": 77,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2812,
+      "PAROTID_L": 3361
+    },
+    "warnings": []
+  },
+  "PAR0207": {
+    "patient_id": "1~240430",
+    "n_slices": 105,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3424,
+      "PAROTID_L": 1881
+    },
+    "warnings": []
+  },
+  "PAR0208": {
+    "patient_id": "260046",
+    "n_slices": 130,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 874,
+      "PAROTID_L": 2074
+    },
+    "warnings": []
+  },
+  "PAR0209": {
+    "patient_id": "1~240688",
+    "n_slices": 114,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6121,
+      "PAROTID_L": 6363
+    },
+    "warnings": []
+  },
+  "PAR0210": {
+    "patient_id": "260245",
+    "n_slices": 111,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3704,
+      "PAROTID_L": 2830
+    },
+    "warnings": []
+  },
+  "PAR0211": {
+    "patient_id": "260167",
+    "n_slices": 117,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7805,
+      "PAROTID_L": 6239
+    },
+    "warnings": []
+  },
+  "PAR0212": {
+    "patient_id": "1~240839",
+    "n_slices": 142,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3050,
+      "PAROTID_L": 978
+    },
+    "warnings": []
+  },
+  "PAR0213": {
+    "patient_id": "1~240804",
+    "n_slices": 112,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2951,
+      "PAROTID_L": 3299
+    },
+    "warnings": []
+  },
+  "PAR0214": {
+    "patient_id": "1~240092",
+    "n_slices": 121,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6010,
+      "PAROTID_L": 7232
+    },
+    "warnings": []
+  },
+  "PAR0215": {
+    "patient_id": "1~240901",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2904,
+      "PAROTID_L": 2009
+    },
+    "warnings": []
+  },
+  "PAR0216": {
+    "patient_id": "260171",
+    "n_slices": 128,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4613,
+      "PAROTID_L": 4339
+    },
+    "warnings": []
+  },
+  "PAR0217": {
+    "patient_id": "1~240221",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6499,
+      "PAROTID_L": 6084
+    },
+    "warnings": []
+  },
+  "PAR0218": {
+    "patient_id": "1~240887",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6052,
+      "PAROTID_L": 10439
+    },
+    "warnings": []
+  },
+  "PAR0219": {
+    "patient_id": "1~240381",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7048,
+      "PAROTID_L": 5061
+    },
+    "warnings": []
+  },
+  "PAR0220": {
+    "patient_id": "1~240817",
+    "n_slices": 117,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 13530,
+      "PAROTID_L": 13370
+    },
+    "warnings": []
+  },
+  "PAR0221": {
+    "patient_id": "260231",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5840,
+      "PAROTID_L": 6520
+    },
+    "warnings": []
+  },
+  "PAR0222": {
+    "patient_id": "1~240383",
+    "n_slices": 115,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5412,
+      "PAROTID_L": 8031
+    },
+    "warnings": []
+  },
+  "PAR0223": {
+    "patient_id": "1~240768",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5043,
+      "PAROTID_L": 1085
+    },
+    "warnings": []
+  },
+  "PAR0224": {
+    "patient_id": "1~240310",
+    "n_slices": 131,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9711,
+      "PAROTID_L": 11654
+    },
+    "warnings": []
+  },
+  "PAR0225": {
+    "patient_id": "1~240448",
+    "n_slices": 128,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11073,
+      "PAROTID_L": 9445
+    },
+    "warnings": []
+  },
+  "PAR0226": {
+    "patient_id": "1~240309",
+    "n_slices": 143,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 10547,
+      "PAROTID_L": 9461
+    },
+    "warnings": []
+  },
+  "PAR0227": {
+    "patient_id": "1~240387",
+    "n_slices": 118,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6938,
+      "PAROTID_L": 6913
+    },
+    "warnings": []
+  },
+  "PAR0228": {
+    "patient_id": "1~240081",
+    "n_slices": 116,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 10553,
+      "PAROTID_L": 8923
+    },
+    "warnings": []
+  },
+  "PAR0229": {
+    "patient_id": "1~240954",
+    "n_slices": 119,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3638,
+      "PAROTID_L": 4362
+    },
+    "warnings": []
+  },
+  "PAR0230": {
+    "patient_id": "1~240389",
+    "n_slices": 108,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7174,
+      "PAROTID_L": 5989
+    },
+    "warnings": []
+  },
+  "PAR0231": {
+    "patient_id": "1~240722",
+    "n_slices": 124,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9219,
+      "PAROTID_L": 9251
+    },
+    "warnings": []
+  },
+  "PAR0232": {
+    "patient_id": "1~240233",
+    "n_slices": 132,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11476,
+      "PAROTID_L": 11026
+    },
+    "warnings": []
+  },
+  "PAR0233": {
+    "patient_id": "1~240810",
+    "n_slices": 120,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 11004,
+      "PAROTID_L": 7054
+    },
+    "warnings": []
+  },
+  "PAR0234": {
+    "patient_id": "1~240249",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8455,
+      "PAROTID_L": 9246
+    },
+    "warnings": []
+  },
+  "PAR0235": {
+    "patient_id": "1~241365",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5791,
+      "PAROTID_L": 5727
+    },
+    "warnings": []
+  },
+  "PAR0236": {
+    "patient_id": "260184",
+    "n_slices": 118,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8204,
+      "PAROTID_L": 7570
+    },
+    "warnings": []
+  },
+  "PAR0237": {
+    "patient_id": "1~240498",
+    "n_slices": 158,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 9367,
+      "PAROTID_L": 8468
+    },
+    "warnings": []
+  },
+  "PAR0238": {
+    "patient_id": "1~240514",
+    "n_slices": 125,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3343,
+      "PAROTID_L": 3392
+    },
+    "warnings": []
+  },
+  "PAR0239": {
+    "patient_id": "1~240979",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 2817,
+      "PAROTID_L": 1539
+    },
+    "warnings": []
+  },
+  "PAR0240": {
+    "patient_id": "1~240067",
+    "n_slices": 374,
+    "z_spacing_mm": 1.0,
+    "organ_voxels": {
+      "PAROTID_R": 34963,
+      "PAROTID_L": 30822
+    },
+    "warnings": []
+  },
+  "PAR0241": {
+    "patient_id": "1~240926",
+    "n_slices": 133,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5217,
+      "PAROTID_L": 3596
+    },
+    "warnings": []
+  },
+  "PAR0242": {
+    "patient_id": "1~240111",
+    "n_slices": 134,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3860,
+      "PAROTID_L": 3611
+    },
+    "warnings": []
+  },
+  "PAR0243": {
+    "patient_id": "260148",
+    "n_slices": 126,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8380,
+      "PAROTID_L": 8470
+    },
+    "warnings": []
+  },
+  "PAR0244": {
+    "patient_id": "1~240321",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 13090,
+      "PAROTID_L": 14289
+    },
+    "warnings": []
+  },
+  "PAR0245": {
+    "patient_id": "260212",
+    "n_slices": 119,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 4563,
+      "PAROTID_L": 2847
+    },
+    "warnings": []
+  },
+  "PAR0246": {
+    "patient_id": "1~240893",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5740,
+      "PAROTID_L": 5934
+    },
+    "warnings": []
+  },
+  "PAR0247": {
+    "patient_id": "1~240777",
+    "n_slices": 119,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 6199,
+      "PAROTID_L": 7350
+    },
+    "warnings": []
+  },
+  "PAR0248": {
+    "patient_id": "1~240046",
+    "n_slices": 140,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 8782,
+      "PAROTID_L": 7781
+    },
+    "warnings": []
+  },
+  "PAR0249": {
+    "patient_id": "1~240049",
+    "n_slices": 160,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7655,
+      "PAROTID_L": 7231
+    },
+    "warnings": []
+  },
+  "PAR0250": {
+    "patient_id": "1~240829",
+    "n_slices": 122,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 7260,
+      "PAROTID_L": 1669
+    },
+    "warnings": []
+  },
+  "PAR0251": {
+    "patient_id": "260103",
+    "n_slices": 127,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 3896,
+      "PAROTID_L": 3575
+    },
+    "warnings": []
+  },
+  "PAR0252": {
+    "patient_id": "260105",
+    "n_slices": 132,
+    "z_spacing_mm": 3.0,
+    "organ_voxels": {
+      "PAROTID_R": 5720,
+      "PAROTID_L": 3718
+    },
+    "warnings": []
+  }
+}

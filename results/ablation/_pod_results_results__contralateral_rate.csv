@@ -1,0 +1,6 @@
+model,n,mean_contra_vox,median_contra_blob,mean_ipsi_pred_vox,n_predicts_contra,contra_rate_pct
+nnUNet_clean208,58,4148.5,3556,6264.5,56,96.6
+E4_custom_clean208,58,5672.4,5323,6121.0,58,100.0
+E6_dirty430,58,5815.6,5135,6215.3,51,87.9
+E6_masked430,58,7009.9,5650,7567.9,55,94.8
+E7_experts,58,4577.1,3963,6264.1,57,98.3

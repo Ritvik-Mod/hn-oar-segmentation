@@ -1,0 +1,3 @@
+Model_Name,3D_Dice,Tversky,HD95_mm,Surface_Dice_3mm,Set
+nnUNet_Parotid_3dfullres,0.5030,0.5028,65.03,0.5816,TEST
+nnUNet_Parotid_noMirror_TEST,0.8187,0.8166,5.25,0.8965,TEST

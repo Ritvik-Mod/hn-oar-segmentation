@@ -1,0 +1,13 @@
+{
+  "channel_names": {
+    "0": "CT"
+  },
+  "labels": {
+    "background": 0,
+    "parotid_r": 1,
+    "parotid_l": 2
+  },
+  "numTraining": 208,
+  "file_ending": ".nii.gz",
+  "description": "Bilateral parotid; L/R made geometrically consistent + corrupt masks QC-dropped."
+}

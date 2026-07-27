@@ -1,0 +1,3 @@
+Model_Name,3D_Dice,Tversky,HD95_mm,Surface_Dice_3mm,Set
+nnUNet_3d_gapped208_fold0,0.6899,0.6680,9.63,0.7649,TEST
+nnUNet_3d_gapped208_fold0,0.6899,0.6680,9.63,0.7649,TEST
