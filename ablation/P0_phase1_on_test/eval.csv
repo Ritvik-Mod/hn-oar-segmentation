@@ -1,0 +1,5 @@
+Model_Name,3D_Dice,Tversky,HD95_mm,Surface_Dice_3mm,n_sides
+U-Net,0.7390,0.7315,4.25,0.8702,86
+Attention_UNet,0.7434,0.7387,3.57,0.8827,86
+TransUNet,0.7313,0.7307,5.60,0.8594,86
+Swin_UNet,0.7156,0.7082,8.34,0.8794,86

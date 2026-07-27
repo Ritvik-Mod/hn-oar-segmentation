@@ -1,0 +1,5 @@
+expert,set,dice,hd95_mm,surface_dice,n
+LEFT expert,both-43,0.7958,6.0,0.8807,43
+RIGHT expert,both-43,0.8241,5.53,0.8981,43
+LEFT expert,single-side L28,0.8663,3.6,0.9375,28
+RIGHT expert,single-side R30,0.8449,4.52,0.9284,30
