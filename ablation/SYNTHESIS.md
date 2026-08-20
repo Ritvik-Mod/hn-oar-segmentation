@@ -1,6 +1,6 @@
 # S1 — SYNTHESIS: what actually drives OAR-segmentation performance on partial-label clinical data
 
-**Written 2026-07-17, after both tracks completed. Every number below is on the SAME locked 43-case test set
+**Every number below is on the SAME locked 43-case test set
 (`Dataset002_Parotid/labelsTs`), scored against clean labels.**
 
 Experiments: Track A = E1, E2, E2b, E5. Track B = P0, A1, E3, E4.
